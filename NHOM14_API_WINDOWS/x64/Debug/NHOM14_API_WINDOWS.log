@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\NHOM14_API_WINDOWS\Source.cpp(59,18): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\NHOM14_API_WINDOWS\Source.cpp(59,18): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\NHOM14_API_WINDOWS\Source.cpp(59,18): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\NHOM14_API_WINDOWS\Source.cpp(59,18): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\NHOM14_API_WINDOWS\Source.cpp(59,18): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\NHOM14_API_WINDOWS\Source.cpp(59,18): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\NHOM14_API_WINDOWS\Source.cpp(59,18): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (1252)
+  NHOM14_API_WINDOWS.vcxproj -> D:\Users\DELL\3D Objects\nguyen li he dieu hanh\NHOM14_API_WINDOWS\x64\Debug\NHOM14_API_WINDOWS.exe
